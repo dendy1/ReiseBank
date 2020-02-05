@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Projects\ReiseBank" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AR Assets" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="MakeAppearOnPlane.cs" t="Include" />
+            <e p="PlacementController.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="FeatheredPlaneShader.shader" t="Include" />
+            <e p="PlaneOcclusionShader.shader" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="GyroCameraController.cs" t="Include" />
+          <e p="SampleScript.cs" t="Include" />
+          <e p="SimpleCameraController.cs" t="Include" />
+          <e p="TapMovingController.cs" t="Include" />
+        </e>
+        <e p="TutorialInfo" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="ReiseBank.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Andrei\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Andrei\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_ReiseBank.-928380317.00" t="ExcludeRecursive" />
+  </component>
+</project>
